@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah all Mojahid
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Developing.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking an oppournity -As A Developer.
 - ⚡ Fun fact: I love to make complex origami.
 - 🤔 I’m trying - To help people learn web development.
