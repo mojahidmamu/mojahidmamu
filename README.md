@@ -1,5 +1,5 @@
 Here are some ideas to get you started:
-💫 About Me:
+💫 About Me: 
 🔭 I’m Looking an oppournity -As A Developer.
 🌱 I’m exploring - Full Stack Web Developer.
 👯 I’m looking - To collaborate on open source projects.
