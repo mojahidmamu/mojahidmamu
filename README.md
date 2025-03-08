@@ -1,4 +1,3 @@
-# Hi there 👋#
 Here are some ideas to get you started:
 💫 About Me:
 🔭 I’m Looking an oppournity -As A Developer.
