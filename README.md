@@ -1,4 +1,4 @@
-### Hi there, I'm mojahidmamu! 👋
+### Hi there, I'm Abdullah all Mojahid ! 👋
 
 🔭 I’m Looking an opportunity - As A Full Stack Developer.  
 🌱 I’m exploring - For Full Stack Web Developer.  
@@ -11,5 +11,6 @@
 ### 🌐 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]( https://github.com/mojahidmamu)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)  
- 
+ https://www.facebook.com/abdullah.all.mojahid.2024
+
  
