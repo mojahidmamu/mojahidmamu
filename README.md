@@ -12,7 +12,8 @@
 
 ## 🔹 About Me
 - 🔭 Looking for an opportunity as a **Full Stack Developer**  
-- 🌱 Currently learning **React, Firebase, MongoDB, Python**  
+- 🌱 Currently learning **React, Firebase, MongoDB** 
+- 💡 Passionate about **Problem Solving, Data Structures & Algorithms (DSA), C, and C++**  
 - 👯 Open to collaborating on **open source projects**  
 - 🤝 Helping people learn **web development**  
 - ⚡ Fun fact: I can make **complex origami** 🦢  
