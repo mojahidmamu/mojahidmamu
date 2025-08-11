@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=600&lines=Hello%2C+I'm+Mojahid!;Software+Developer+in+the+Making;Full-Stack+Web+Developer+in+Progress;Problem+Solver)](https://git.io/typing-svg)
 
 
-💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** | 🚀 Future Machine Learning Engineer  
+💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** |
 🎓 Diploma in Computer Science & Engineering | 📍 Bangladesh  
 
 
