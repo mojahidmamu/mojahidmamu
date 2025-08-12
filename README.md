@@ -4,7 +4,7 @@
 
 
 
-💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** | ----------------------------------------------------------------
+💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** | -------------------------------------------------------------------------------
 🎓 Diploma in Computer Science & Engineering | 📍 Bangladesh  
 
 
