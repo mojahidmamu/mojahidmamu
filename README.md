@@ -6,7 +6,7 @@
 
 
 💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** | --------------------------------------------------------------------
-🎓 Diploma in Computer Science & Engineering | 📍 Bangladesh  
+🎓 Diploma in Computer Science & Engineering | 📍 Bangladesh  -------------------
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
