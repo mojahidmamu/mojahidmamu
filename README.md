@@ -1,16 +1,6 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&width=600&lines=Hello+!+I'm+ABDULLAH+ALL+MOJAHID;Software+Developer+in+the+Making;Full-Stack+Web+Developer+in+Progress;Problem+Solver)](https://git.io/typing-svg)
 
-
-
-
-
-💻 **Software Developer in the Making** | **Full-Stack Web Developer in Progress** | --------------------------------------------------------------------
-🎓 Diploma in Computer Science & Engineering | 📍 Bangladesh  -------------------
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
-
 ---
 
 ## 🔹 About Me
@@ -22,6 +12,8 @@
 - ⚡ Fun fact: I can make **complex origami** 🦢  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ## 🛠 Skills & Tools  
 **Languages**  
