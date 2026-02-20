@@ -65,8 +65,8 @@
 <table>
   <tr>
     <td width="200px" align="center">
-      🎓 <br>
-      <b>Diploma in Computer Science & Engineering</b>
+      <span style="font-size:40px;">🎓</span><br>
+      <b>Diploma in Computer Science </b>
     </td>
     <td align="left">
       <b>Bangladesh Sweden Polytechnic Institute</b><br>
@@ -76,8 +76,8 @@
   </tr>
 
   <tr>
-    <td width="200px" align="center">
-      🏫 <br>
+    <td width="200px" align="center"> 
+      <span style="font-size:40px;">🏫</span><br>
       <b>Secondary School Certificate (SSC)</b>
     </td>
     <td align="left">
