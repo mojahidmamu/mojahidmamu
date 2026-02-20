@@ -58,32 +58,39 @@
 
 ---
 
- ## 🎓 Education
+ <div align="center">
+
+## 🎓 Education
+
 <table>
   <tr>
-    <td width="150px" align="center">
-      🎓<br>
-      <b>Diploma in Computer Science</b>
+    <td width="200px" align="center">
+      🎓 <br>
+      <b>Diploma in Computer Science & Engineering</b>
     </td>
-    <td>
+    <td align="left">
       <b>Bangladesh Sweden Polytechnic Institute</b><br>
-      2024 - 2027-(running) <br>
+      2024 – 2027 (Running) <br>
       📊 <b>CGPA:</b> Pending
     </td>
   </tr>
 
   <tr>
-    <td width="150px" align="center">
-      📚<br>
-      <b>Secondary (SSC)</b>
+    <td width="200px" align="center">
+      🏫 <br>
+      <b>Secondary School Certificate (SSC)</b>
     </td>
-    <td>
+    <td align="left">
       <b>Illishia Jamila Begum High School</b><br>
       2018 – 2023 <br>
       🎯 <b>CGPA:</b> 4.83 / 5.00
     </td>
   </tr>
 </table>
+
+</div>
+---
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
