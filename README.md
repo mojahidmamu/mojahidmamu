@@ -52,6 +52,24 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mojahidmamu&theme=radical)  
 
 ---
+
+## 📈 GitHub Activity & Radar Chart
+![Mojahid's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojahidmamu&theme=react-dark&area=true)
+
+---
+
+## 🍰 Languages & Contributions Summary
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=react-dark)
+
+---
+
+| 📈 GitHub Activity | 🍰 Languages & Contributions Summary |
+|------------------|------------------------------------|
+| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojahidmamu&theme=react-dark&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=react-dark) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mojahidmamu&theme=react-dark)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
 
 
