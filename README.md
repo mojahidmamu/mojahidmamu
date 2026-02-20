@@ -58,10 +58,6 @@
 
 ---
 
-## 🍰 Languages & Contributions Summary
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=react-dark)
-
----
 
 | 📈 GitHub Activity | 🍰 Languages & Contributions Summary |
 |------------------|------------------------------------|
