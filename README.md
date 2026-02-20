@@ -58,12 +58,32 @@
 
 ---
 
+ ## 🎓 Education
+<table>
+  <tr>
+    <td width="150px" align="center">
+      🎓<br>
+      <b>Diploma in Computer Science</b>
+    </td>
+    <td>
+      <b>Bangladesh Sweden Polytechnic Institute</b><br>
+      2024 - 2027-(running) <br>
+      📊 <b>CGPA:</b> Pending
+    </td>
+  </tr>
 
-| 📈 GitHub Activity | 🍰 Languages & Contributions Summary |
-|------------------|------------------------------------|
-| ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojahidmamu&theme=react-dark&area=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=react-dark) |
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mojahidmamu&theme=react-dark)
-
+  <tr>
+    <td width="150px" align="center">
+      📚<br>
+      <b>Secondary (SSC)</b>
+    </td>
+    <td>
+      <b>Illishia Jamila Begum High School</b><br>
+      2018 – 2023 <br>
+      🎯 <b>CGPA:</b> 4.83 / 5.00
+    </td>
+  </tr>
+</table>
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
