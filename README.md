@@ -64,8 +64,7 @@
 
 <table>
   <tr>
-    <td width="200px" align="center">
-      <span style="font-size:40px;">🎓</span><br>
+    <td width="300px" align="center">
       <b>Diploma in Computer Science </b>
     </td>
     <td align="left">
@@ -76,8 +75,7 @@
   </tr>
 
   <tr>
-    <td width="200px" align="center"> 
-      <span style="font-size:40px;">🏫</span><br>
+    <td width="300px" align="center">
       <b>Secondary School Certificate (SSC)</b>
     </td>
     <td align="left">
