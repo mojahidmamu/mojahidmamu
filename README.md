@@ -4,23 +4,30 @@
 ---
 
 ## 🔹 About Me
- I don’t just write code — I try to understand problems deeply and build meaningful solutions.
+ I am a passionate **Full Stack Developer in progress**, focused on building real-world applications and improving my problem-solving skills.
 
-💻 I enjoy turning ideas into real-world web applications  
-🧠 I think in logic, structure, and scalable systems  
-🔥 I love solving challenging problems with DSA & algorithms  
-🚀 I enjoy building full-stack projects from scratch  
-🌱 Every bug I fix makes me better than yesterday  
-🎯 I focus on clean code, performance, and user experience  
-🤝 I believe in learning by building and sharing knowledge 
-⚡ Fun fact: I can make **complex origami** 🦢  
+💻 I enjoy turning ideas into scalable web applications  
+🧠 I think in logic, structure, and system design  
+🔥 Strong interest in Data Structures & Algorithms (DSA)  
+🚀 I build full-stack projects using MERN stack  
+🌱 Always learning from bugs, errors, and real-world problems  
+🤝 I believe in learning by building and sharing  
+⚡ Fun fact: I can make complex origami 🦢  
 
 > “Code. Learn. Break. Fix. Repeat.”
 
-Sometimes I get stuck…  
-but that’s where real growth begins 🧩
-
 ---
+
+## 🎯 Current Focus
+
+- ⚙️ Full Stack Development (MERN Stack)
+- 🧠 Competitive Programming (Codeforces, CodeChef, LeetCode)
+- 🚀 Building real-world projects
+- 🔐 Learning authentication, APIs & system design basics
+- 📈 Improving problem-solving speed & logic thinking
+- 
+---
+
 ## 🛠 Skills & Tools
 
 ### 🌐 Frontend
@@ -48,13 +55,17 @@ but that’s where real growth begins 🧩
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-### 🧠 CS & Problem Solving
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+### 🧠 Competitive Programming
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abdullah_all_Mojahid)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mojahidmamu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
----
+----
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +76,7 @@ but that’s where real growth begins 🧩
 
 ---
 
-### 🚀 Extra Skills (Recommended Additions)
+### 🚀 API & Backend Concepts
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
