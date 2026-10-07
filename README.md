@@ -6,16 +6,17 @@
 ## 🔹 About Me
  I am a passionate **Full Stack Developer in progress**, focused on building real-world applications and improving my problem-solving skills.
 
-💻 Building full-stack applications with the MERN Stack
-⚡ Expanding into TypeScript, Next.js, and modern full-stack development
-🗄️ Exploring PostgreSQL, RDBMS, and Prisma for robust backend systems
-🐳 Learning Docker, Nginx, and deployment workflows
-🧠 Strong foundation in Data Structures & Algorithms and problem solving
-🏆 Codeforces Specialist & CodeChef 3★
-🚀 Passionate about turning ideas into real-world software
-🌱 Continuously learning through projects, debugging, and real-world challenges
-🤝 Believe in learning by building, sharing, and improving
-⚡ Fun fact: I can make complex origami 🦢  
+💻 Building full-stack applications with the MERN Stack<br>
+⚡ Expanding into TypeScript, Next.js, and modern full-stack development<br>
+🗄️ Exploring PostgreSQL, RDBMS, and Prisma for robust backend systems<br>
+🐳 Learning Docker, Nginx, and modern deployment workflows<br>
+🧠 Strong foundation in Data Structures, Algorithms, and problem solving<br>
+🏆 Codeforces Specialist & CodeChef 3★<br>
+🚀 Passionate about turning ideas into real-world software<br>
+🌱 Continuously learning through projects, debugging, and real-world challenges<br>
+🤝 Learning by building, sharing, and improving<br>
+⚡ Fun fact: I can make complex origami 🦢
+ 
 
 > “Code. Learn. Break. Fix. Repeat.”
 
@@ -23,16 +24,16 @@
 
 ## 🎯 Current Focus
 
-💻 Full Stack Web Development
-⚙️ MERN Stack — MongoDB, Express.js, React, Node.js
-⚡ TypeScript & Next.js
-🔐 Authentication, REST APIs & Backend Architecture
-🗄️ PostgreSQL, RDBMS & Prisma
-🐳 Docker & Nginx
-🧠 Data Structures & Algorithms
-🏆 Competitive Programming — Codeforces & CodeChef
-🚀 Building and deploying real-world projects
-📈 Improving problem-solving, system design, and software engineering skills
+💻 Full Stack Web Development<br>
+⚙️ MERN Stack — MongoDB, Express.js, React, Node.js<br>
+⚡ TypeScript & Next.js<br>
+🔐 Authentication, REST APIs & Backend Architecture<br>
+🗄️ PostgreSQL, RDBMS & Prisma<br>
+🐳 Docker & Nginx<br>
+🧠 Data Structures & Algorithms<br>
+🏆 Competitive Programming — Codeforces & CodeChef<br>
+🚀 Building and deploying real-world projects<br>
+📈 Improving problem-solving, system design, and software engineering skills<br>
 
 ---
 
@@ -135,6 +136,43 @@
  
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mojahidmamu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojahidmamu&theme=radical&hide_border=true" width="70%" />
+</p>
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mojahidmamu&theme=github_dark"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mojahidmamu&theme=github_dark&utcOffset=6"
+    width="48%"
+    alt="Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mojahidmamu&theme=github_dark"
+    width="48%"
+    alt="Repositories Per Language"
+  />
+</p>
+
+
+---
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -151,57 +189,55 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mojahidmamu&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mojahidmamu&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mojahidmamu&theme=radical&hide_border=true" width="70%" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mojahidmamu&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mojahidmamu/mojahidmamu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
- ## 🌐 Connect with me
-
-<p align="left">
+  <a href="https://github.com/mojahidmamu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+    <br>
+    <sub><b>GitHub</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-website-roan-kappa-72.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio" />
+    <br>
+    <sub><b>Portfolio</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abdullah-all-mojahid-a8a57b329/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+    <br>
+    <sub><b>LinkedIn</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/abdullah.all.mojahid.2024" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook" />
+    <br>
+    <sub><b>Facebook</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1256442578509889589" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord" />
+    <br>
+    <sub><b>Discord</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Abdullah_all_Mojahid" target="_blank">
     <img src="https://skillicons.dev/icons?i=codeforces" width="45" height="45" alt="Codeforces" />
+    <br>
+    <sub><b>Codeforces</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/mojahidmamu" target="_blank">
     <img src="https://skillicons.dev/icons?i=codechef" width="45" height="45" alt="CodeChef" />
+    <br>
+    <sub><b>CodeChef</b></sub>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/abdullahallmoja1" target="_blank">
     <img src="https://skillicons.dev/icons?i=hackerrank" width="45" height="45" alt="HackerRank" />
+    <br>
+    <sub><b>HackerRank</b></sub>
   </a>
 </p>
 
