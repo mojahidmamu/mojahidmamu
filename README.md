@@ -192,56 +192,37 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/mojahidmamu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-    <br>
-    <sub><b>GitHub</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-website-roan-kappa-72.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio" />
-    <br>
-    <sub><b>Portfolio</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abdullah-all-mojahid-a8a57b329/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
-    <br>
-    <sub><b>LinkedIn</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/abdullah.all.mojahid.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook" />
-    <br>
-    <sub><b>Facebook</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/1256442578509889589" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord" />
-    <br>
-    <sub><b>Discord</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Abdullah_all_Mojahid" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" width="45" height="45" alt="Codeforces" />
-    <br>
-    <sub><b>Codeforces</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/mojahidmamu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" width="45" height="45" alt="CodeChef" />
-    <br>
-    <sub><b>CodeChef</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/abdullahallmoja1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="45" height="45" alt="HackerRank" />
-    <br>
-    <sub><b>HackerRank</b></sub>
-  </a>
+
+<a href="https://github.com/mojahidmamu" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://portfolio-website-roan-kappa-72.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/abdullah-all-mojahid-a8a57b329/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/abdullah.all.mojahid.2024" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://discord.com/users/1256442578509889589" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://codeforces.com/profile/Abdullah_all_Mojahid" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.codechef.com/users/mojahidmamu" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+<a href="https://www.hackerrank.com/profile/abdullahallmoja1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+<a href="mailto:abdullahallmojahidstudent@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </p>
 
-
----
+--------
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mojahidmamu&label=Profile%20Views&color=0e75b6&style=flat)
